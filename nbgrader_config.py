@@ -6,7 +6,7 @@ c = get_config()
 
 # You only need this if you are running nbgrader on a shared
 # server set up.
-c.CourseDirectory.course_id = "nbtest"
+c.CourseDirectory.course_id = "2023DSP"
 
 c.IncludeHeaderFooter.header = "source/header.ipynb"
 
